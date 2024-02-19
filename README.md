@@ -1,30 +1,18 @@
-APP Name: Fitness
+**APP Name: Fitness**
 
 Onboarding Page:
+SignUp Page:/
+Login Page:/
+Home Page:/
+Meal Page:/
+Notification Page:/
+BMI Calculator Page:/
+Data and Analytics page:/
 
-![Screenshot_20240219-131841](https://github.com/SudeshDR/Fitness-App/assets/103194804/68bf10f4-d72b-4798-8869-928dc0fe70c2)
+![Fitness app](https://github.com/SudeshDR/Fitness-App/assets/103194804/26183860-5251-4952-8a2d-0349940d30c1)
+![Fitness app (1)](https://github.com/SudeshDR/Fitness-App/assets/103194804/61343098-6ca4-4190-a9fa-de60a9512a58)
+![Fitness app (2)](https://github.com/SudeshDR/Fitness-App/assets/103194804/7c832fa3-4aec-458e-9461-096f019a7a32)
 
-SignUp Page:
-![Screenshot_20240219-131846](https://github.com/SudeshDR/Fitness-App/assets/103194804/5a581414-b81a-4ca3-b09a-29080a1f5fd5)
-
-Login Page:
-![Screenshot_20240219-132007](https://github.com/SudeshDR/Fitness-App/assets/103194804/cf80c9d6-06dc-4ca4-8562-fe213c53dc6b)
-
-Home Page:
-![Screenshot_20240219-131903](https://github.com/SudeshDR/Fitness-App/assets/103194804/190039e7-9073-4a3a-bf82-d7f7d33d7800)
-
-Meal Page :
-![Screenshot_20240219-131916](https://github.com/SudeshDR/Fitness-App/assets/103194804/2b9a9a6d-211f-4784-bc9d-49638c2f5621)
-
- 
-Notification Page:
-![Screenshot_20240219-131950](https://github.com/SudeshDR/Fitness-App/assets/103194804/cdf1c220-dcd3-467f-b5de-48bdf90624e8)
-
-BMI Calculator Page:
-![Screenshot_20240219-131932](https://github.com/SudeshDR/Fitness-App/assets/103194804/cc282cc5-dcb0-4960-a054-028b27607d7a)
-
-Data and Analytics page:
-![Screenshot_20240219-131942](https://github.com/SudeshDR/Fitness-App/assets/103194804/c4671f60-3708-401f-a6c3-85ec7ebc47e6)
 
 
 **MIT App Inventor:**
